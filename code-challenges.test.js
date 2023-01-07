@@ -104,7 +104,7 @@ const studyMinutesWeek2 = {
   saturday: 65
 }
 // Expected output: [10, 15, 20, 45, 60, 65, 100]
-
+//  JEST Test
 // describe timesSwapped =[] => {
 //   it(takes the values from studyMinutesWeek1) and performs the sort method to create the expected output.
 //   expected output [15, 15, 20, 30, 30, 60, 90]
